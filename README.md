@@ -1,5 +1,10 @@
 ## Привет 👋, меня зовут Николай Слесарев
-[![Github Badge](https://img.shields.io/badge/-Kolanser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Kolanser/)](https://www.github.com/Kolanser/) <p align='left'>Я учусь программированию в направлении backend-разработки на языке Python</p>
+[![Github Badge](https://img.shields.io/badge/-Kolanser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Kolanser/)](https://www.github.com/Kolanser/) 
+ ### Python-разработчик
+
+### Я знаю и понимаю:
+`Python, Django, API, Django REST Framework, SQL, SQLite, PostgreSQL, Docker, Git, GitHub, Telegram, Gunicorn, NGNIX, Linux`
+
 ## Немного моей статистики на Github
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kolanser alt=Kolanser /> </p>
 
